@@ -1,0 +1,201 @@
+
+
+.container {
+    
+        height:1200px;
+    
+        width: 500px;
+    
+        margin: auto;
+    
+        padding:2em;
+    
+        background-color:pink;
+    
+        
+    
+        background-size:cover;
+    
+    }
+    
+    
+    
+    .row{
+    
+        margin:auto;
+    
+        padding:1em;
+    
+        background-image:url(https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/22728650_10155312798113143_8618857906155195234_n.jpg?oh=e45772130a938cfbc616692df4ea3ddc&oe=5AAD3E7A);
+    
+        background-size:cover;
+    
+    }
+    
+    
+    
+    .container1 {
+    
+        background-color:rgb(216, 60, 88);
+    
+        height:100%;
+    
+        width:100%;
+    
+        display: block;
+    
+        margin:auto;
+    
+        margin: auto;
+    
+        background-image:url(https://scontent-sjc2-1.xx.fbcdn.net/v/t31.0-8/22519841_10155300996898143_7570840391319106267_o.jpg?oh=cc1be61b32a4ef3a39c960e83bd913c3&oe=5A6C9F03);
+    
+        background-size:cover;
+    
+    
+    
+    }
+    
+    
+    
+    .article3 {
+    
+        background-color:red;
+    
+        height:100%;
+    
+        width:100%;
+    
+        display: block;
+    
+        background-image:url ();
+    
+        background-size:cover;
+    
+        }
+    
+    
+    
+    .article2 {
+    
+        background-color:red;
+    
+        height:100%;
+    
+        width:100%;
+    
+        display: block;
+    
+        background-image:url ();
+    
+        background-size:cover;
+    
+        }
+    
+    
+    
+        .container3a {
+    
+            background-color: yellow;
+    
+            display: block;
+    
+            height:100%;
+    
+            width:100%;
+    
+            background-image: url(http://media2.giphy.com/media/lH99Q3q4sTHIA/giphy.gif);
+    
+            background-size: cover; 
+    
+        
+    
+            margin:auto;
+    
+        }
+    
+       
+    
+        .container3b {
+    
+            background-color: yellow;
+    
+            display: block;
+    
+            height:100%;
+    
+            width:100%;
+    
+            background-image: url(http://media3.giphy.com/media/6vg3kRY0Jk3Go/giphy.gif);
+    
+            background-size: cover; 
+    
+        
+    
+            margin:auto;
+    
+        }
+    
+        
+    
+        
+    
+        .container3c {
+    
+            background-color: yellow;
+    
+            display: block;
+    
+            height:100%;
+    
+            width:100%;
+    
+            background-size: cover; 
+    
+        
+    
+            margin:auto;
+    
+        }
+    
+        .container3d {
+    
+            background-color: yellow;
+    
+            display: block;
+    
+            height:100%;
+    
+            width:100%;
+    
+            background-image: url();
+    
+            background-size: cover; 
+    
+        
+    
+            margin:auto;
+    
+        }
+    
+    
+    
+    
+    
+    .container10 {
+    
+        background-color: yellow;
+    
+        display: block;
+    
+        height:100%;
+    
+        width:100%;
+
+    
+        background-size: cover; 
+    
+    
+        margin:auto;
+    
+    }

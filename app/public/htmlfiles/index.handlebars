@@ -1,0 +1,75 @@
+
+
+<div class="row">
+    {{#each combination}}
+    {{#unless this.chosen}}
+    <div class="col-xs-9 text-center">
+        <pre>{{this.burger_name}}
+            {{this.burger_price}}
+              {{this.burgerIMG}}
+        </pre>
+    <button class="change-chosen" data-id="{{id}}" data-newchosen="{{chosen}}">
+    </button>
+    
+            <!-- {{this.Date}} -->
+    </div>
+
+<div class="row">
+    {{#each burgers}}
+    {{#unless this.chosen}}
+    <div class="col-xs-9 text-center">
+        <pre>{{this.price}}. {{this.burger_name}}
+               {{this.burgerIMG}}
+        </pre>
+            <!-- {{this.Date}} -->
+    </div>
+
+<div class="row">
+    {{#each drinks}}
+    {{#unless this.chosen}}
+    <div class="col-xs-9 text-center">
+        <pre>{{this.price}}. {{this.burger_name}}
+               {{this.burgerIMG}}
+        </pre>
+            <!-- {{this.Date}} -->
+    </div>
+
+
+
+
+
+{{!-- make breaks. do and undo  --}}
+
+
+<div class="row">
+    {{#each combination}}
+    {{#if this.chosen}}
+    <div class="col-xs-9 text-center">
+        <pre>{{this.burger_name}}
+            {{this.burger_price}}
+              {{this.burgerIMG}}
+        </pre>
+            <!-- {{this.Date}} -->
+    </div>
+
+
+<div class="row">
+    {{#each burgers}}
+    {{#if this.chosen}}
+    <div class="col-xs-9 text-center">
+        <pre>{{this.price}}. {{this.burger_name}}
+               {{this.burgerIMG}}
+        </pre>
+            <!-- {{this.Date}} -->
+    </div>
+
+
+<div class="row">
+    {{#each drinks}}
+    {{#if this.chosen}}
+    <div class="col-xs-9 text-center">
+        <pre>{{this.price}}. {{this.burger_name}}
+               {{this.burgerIMG}}
+        </pre>
+            <!-- {{this.Date}} -->
+    </div>
